@@ -1,4 +1,4 @@
-[![MasterHead](https://www.vidnoz.com/bimg/unscreen-removes-backgrounds-from-gifs-result.gif)](https://rishavchanda.io)
+[![MasterHead](https://www.vidnoz.com/bimg/unscreen-removes-backgrounds-from-gifs-result.gif)]
 <h1 align="center">Selam! 👋, Ben Furkan Murat Göncü</h1>
 <h3 align="center">Ben Öle ortaya karşık kod yazan bir developerım.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/trwMzHIDQlQAAAAj/hack-hacking.gif">
