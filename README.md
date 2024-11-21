@@ -1,5 +1,5 @@
 
-<img align="center" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGDftc07wLxmiFLPLFvGoPPAiEmic1lXlrdg&s">
+
 <h1 align="center">Selam! 👋, Ben Furkan Murat Göncü</h1>
 <h3 align="center">Ben Öle ortaya karşık kod yazan bir developerım.</h3>
 <img align="right" alt="Coding" width="400" src="https://giffiles.alphacoders.com/131/13120.gif">
