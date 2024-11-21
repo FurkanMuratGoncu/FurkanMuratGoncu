@@ -1,5 +1,5 @@
 [![MasterHead](https://www.vidnoz.com/bimg/unscreen-removes-backgrounds-from-gifs-result.gif)]
-<img align="right" alt="Coding" width="400" src="[https://media.tenor.com/trwMzHIDQlQAAAAj/hack-hacking.gif](https://www.vidnoz.com/bimg/unscreen-removes-backgrounds-from-gifs-result.gif)">
+<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGDftc07wLxmiFLPLFvGoPPAiEmic1lXlrdg&s">
 <h1 align="center">Selam! 👋, Ben Furkan Murat Göncü</h1>
 <h3 align="center">Ben Öle ortaya karşık kod yazan bir developerım.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/trwMzHIDQlQAAAAj/hack-hacking.gif">
